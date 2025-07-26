@@ -2,7 +2,7 @@
 
 A Streamlit-based web app that recommends movies based on user preferences like genre, gender, and ratings.
 
-🔗 Live Demo: [Click here to try it](https://yourname.streamlit.app)
+🔗 Live Demo: [Click here to try it](https://movie-recommender-at6yqszbwdrm6q2kpknnd7.streamlit.app/)
 
 ## Features
 - Filter by Genre, Gender Preferences
